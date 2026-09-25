@@ -4,6 +4,11 @@ An end-to-end Machine Learning web application and regression pipeline designed 
 
 ---
 
+<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM (1)" src="https://github.com/user-attachments/assets/a6161ceb-29d6-4036-9de0-38314918aa81" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM (1)" src="https://github.com/user-attachments/assets/ced7d38e-4e33-4656-a7ef-471b0dd1e6a6" />
+
+
+
 ## 📌 Project Introduction
 
 Accurate real estate valuation is a critical challenge due to the complex, non-linear interplay between geographical positioning, socioeconomic factors, and neighborhood density. 
